@@ -34,6 +34,8 @@ FURGERI, Sérgio. Java 8 - Ensino Didático - Desenvolvimento e Implementação 
 
 13. Qual é a diferença entre o tipo de dados **float** e **double**?
 
+13. Quais são os valores iniciais dos tipos primitivos?
+
 14. Analise o seguinte código. Qual será o valor impresso em tela? Explique o que ocorre.
 
 ```java
@@ -46,10 +48,10 @@ class Main {
 }
 ```
 
-16. A **String** é um tipo de dados primitivos? Explique sua resposta.
+15. A **String** é um tipo de dados primitivos? Explique sua resposta.
 
-17. Como é realizado a comparação entre duas **String**?
+16. Como é realizado a comparação entre duas **String**?
 
-
+17. 
 
 
