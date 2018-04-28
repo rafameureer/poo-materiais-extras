@@ -58,4 +58,6 @@ class Main {
 
 21. Crie um código que realize a soma dos números do intervalo de 0 até 10. Crie o mesmo código com as estrutura de repetição **for, while** e **do-while**.
 
+22. Como é realizada a conversão de uma String para um tipo primitivo? Crie dois exemplos.
+
 
