@@ -75,3 +75,14 @@ class Main {
 }
 ```
 
+24. Análise o código abaixo. Qual o valor que deveria imprimir em tela? Por que o valor impresso é diferente?
+
+```Java
+class Main {
+  public static void main(String[] args) {
+    char c = 103;
+    System.out.println(c);
+  }
+}
+```
+
