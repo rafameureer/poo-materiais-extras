@@ -52,6 +52,10 @@ class Main {
 
 18. Como é realizado a comparação entre duas **String**?
 
-19. 
+19. Como é realizado a formatação de um valor com duas casas decimais?
+
+20. Como é a estrutura do **switch-case**? Crie um exemplo.
+
+21. Crie um código que realize a soma dos números do intervalo de 0 até 10. Crie o mesmo código com as estrutura de repetição **for, while** e **do-while**.
 
 
