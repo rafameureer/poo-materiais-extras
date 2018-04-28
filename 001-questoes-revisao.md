@@ -61,3 +61,17 @@ class Main {
 22. Como é realizada a conversão de uma String para um tipo primitivo? Crie dois exemplos.
 
 
+23. Análise o código abaixo. Qual o valor que deveria imprimir em tela? Por que o valor impresso é diferente?
+
+```Java
+class Main {
+  public static void main(String[] args) {
+    float f = 0.000f;
+    for(int i = 0; i < 100; i++){
+      f += 0.001f;
+    }
+    System.out.println(f);
+  }
+}
+```
+
